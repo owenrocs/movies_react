@@ -1,0 +1,1 @@
+export { default as Pill } from './Pill' // import {Pill} from './components/Pill'

@@ -1,0 +1,1 @@
+export { default as Carousel } from './Carousel'; // import {Carousel} from './components/Carousel'
